@@ -1,0 +1,16 @@
+body {
+	background-color:lightcyan;
+	position:relative; top:50px;
+}
+
+h1 {
+	background-color:mediumaquamarine; text-align:center;
+}
+
+h2 {
+	color:red; text-align:center;
+}
+
+table {
+	margin-left:40%; margin-right:40%;
+}

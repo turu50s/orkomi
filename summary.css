@@ -1,0 +1,112 @@
+body {
+    background-color:lightcyan; margin-left:15px; margin-right:15px;
+    position:relative; top:2px; font-size:1.4em;
+}
+
+h2 {
+    background-color:mediumaquamarine; text-align:center;
+}
+
+h3 {
+    text-align:center;
+}
+
+p.date {
+	text-align:right;
+}
+
+table {
+    text-align:center;
+}
+
+table.pos {
+	margin-left:auto; margin-right:auto;
+}
+
+th {
+    background-color:mediumaquamarine;
+}
+
+td.ti {
+	font-size:0.5rem; background-color:mediumaquamarine;
+}
+
+td {
+    background-color:lightyellow; color:black;
+}
+
+td.mon {
+	text-align:right;
+}
+
+td.money {
+	text-align:right;
+}
+
+td.sum {
+    background-color:pink; text-align:right; font-weight:bold;
+}
+
+.sum1 {
+    background-color:pink; text-align:center; border-bottom:0px; font-size:0.5rem;
+}
+
+div.gr0 {
+    float:left; margin-right:0px; padding-right:0px;
+}
+
+div.gr1 {
+	overflow: hidden;
+    position: relative;
+	float:right; position:absolute; left:300px;
+}
+
+div.gr2 {
+    clear: both; margin-top:10px;
+   
+}
+
+div.gr3 {
+    width:700px;
+   
+}
+
+div.gr31 {
+    float:left; width:250px;
+   
+}
+
+div.menu {
+    float:left; width:150px;
+}
+
+div.gr32 {
+    margin-bottom: 5px;
+}
+
+div.menu a {
+    display:block; text-decoration:none; color:lightpink; 
+    background-color:mediumaquamarine; margin:2px 10px; padding:4px; text-align:center;
+}
+
+div.up {
+    float:right; position:absolute; left:200px;
+}
+
+div.off {
+    margin-top:10px; padding:5px;
+}
+
+ul#image  {
+	margin:0; padding:0;
+}
+
+ul#image li {
+	float:left; margin:0; padding:0;  list-style: none;
+}
+
+
+
+a img {
+	border-style:none;
+}

@@ -1,0 +1,65 @@
+body {
+    width:760px; background-color:lightcyan;
+    position:relative; left:20%; top:30px;
+}
+
+h2 {
+    background-color:mediumaquamarine; text-align:center;
+}
+
+h3 {
+	text-align:center;
+}
+
+p.date {
+    text-align:right;
+}
+
+table {
+    margin-left:10px; margin-right:auto; text-align:center;
+}
+
+th {
+	background-color:mediumaquamarine;Å@
+}
+
+td.mon {
+	width:100px;
+}
+
+td.money {
+	width:200px;
+}
+
+
+td {
+	background-color:lightyellow; color:black;
+}
+
+td.sum {
+	background-color:pink;
+}
+
+div.in {
+	margin-left:auto; margin-right:auto; margin-top:5px; padding:5px; width:200px; text-align:center;
+	border-color:red;
+}
+
+div.off {
+	margin-left:100px;; margin-right:auto; margin-top:30px; padding:5px;
+}
+
+div.menu {
+    float:left; width:150px;
+}
+
+div.menu a {
+    display:block; text-decoration:none; color:blue; font-weight: bold;
+    background-color:mediumaquamarine; margin:2px 10px; padding:4px; text-align:center;
+}
+
+div.up {
+    float:right; width:600px;
+    /*float:right; position:absolute; left:180px; width:600px;*/
+}
+

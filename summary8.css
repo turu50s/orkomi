@@ -1,0 +1,85 @@
+body {
+    background-color:lightcyan; margin-left:15px; margin-right:15px;
+    position:relative; top:2px;
+}
+
+h2 {
+    background-color:mediumaquamarine; text-align:center;
+}
+
+h3 {
+    text-align:center;
+}
+
+p.date {
+	text-align:right;
+}
+
+table {
+    text-align:center;
+}
+
+table.pos {
+	margin-left:auto; margin-right:auto;
+}
+
+th {
+    background-color:mediumaquamarine;
+}
+
+th.ti {
+	font-size:0.8em; background-color:mediumaquamarine;
+}
+
+td {
+    background-color:lightyellow; color:black;
+}
+
+td.mon {
+	text-align:right;
+}
+
+td.money {
+	text-align:right;
+}
+
+td.sum {
+    background-color:pink; text-align:right; font-weight:bold;
+}
+
+.sum1 {
+    background-color:pink; text-align:center; border-bottom:0px;
+}
+
+div.gr1 {
+	overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+    width: 800px;
+}
+
+div.gr0 {
+    float:left; width:100px; margin-right:10px; padding-right:10px;
+}
+
+div.gr2 {
+    float:left; width:100px; margin-top:10px; margin-right:3px;
+   
+}
+
+div.gr3 {
+    float:right; width: 250px; margin-top:10px; margin-left:5px;
+   
+}
+
+div.up {
+    float:right; position:absolute; left:200px;
+}
+
+div.off {
+    clear: both; margin-top:10px; padding:5px;
+}
+
+a img {
+	border-style:none;
+}

@@ -1,0 +1,107 @@
+body {
+    background-color:lightcyan;
+    
+    width:780px;
+    position:relative; left:20%; top:30px;
+}
+
+h2 {
+    background-color:mediumaquamarine; text-align:center;
+}
+
+h3 {
+    text-align:center;
+}
+
+p.date {
+    text-align:right;
+}
+
+table {
+    text-align:center;
+}
+
+table.pos {
+    margin-left:auto; margin-right:auto;
+}
+
+th {
+    background-color:mediumaquamarine;
+}
+
+th.ti {
+    font-size:0.8em; background-color:mediumaquamarine;
+}
+
+td {
+    background-color:lightyellow; color:black;
+}
+
+td.mon {
+    text-align:right;
+}
+
+td.money {
+    text-align:right;
+}
+
+td.sum {
+    background-color:pink; text-align:right; font-weight:bold;
+}
+
+.sum1 {
+    background-color:pink; text-align:center; border-bottom:0px;
+}
+
+div.gr0 {
+    float:left; margin-right:0px; padding-right:0px;
+}
+
+div.gr1 {
+    float:right; position:absplute; left:200px;
+}
+
+div.gr2 {
+    clear:both; margin-top:10px;
+}
+
+div.menu {
+    float:left; width:150px;
+}
+
+div.menu a {
+    display:block; text-decoration:none; color:blue; font-weight; 
+    background-color:mediumaquamarine; margin-top:5px; padding:5px; text-align:center;
+}
+
+div.up {
+    float:right; position:absolute; left:180px; top:60;
+}
+
+div.ji {
+	position:relative; width:1000px; margin-left: 20px;
+}
+
+
+div.seki {
+	float:left; margin-left: 25px;
+}
+div.off {
+    margin-top:10px; padding:5px;
+}
+
+div.er {
+	clear:both;
+}
+
+div.image {
+    float:right;
+}
+
+div.gr3 {
+    float:left; margin-top:20px;
+}
+
+a img {
+    border-style:none;
+}
